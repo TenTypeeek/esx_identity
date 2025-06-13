@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/DgTSFDX.png)
+![Banner](https://i.imgur.com/71Z3nZG.png)
 
 # 🪪 \[ESX] Identity
 
